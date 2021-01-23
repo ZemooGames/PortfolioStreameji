@@ -1,0 +1,6 @@
+<movepattern version="5">
+  <move id="0" index="0" loop="1">
+    <frame image="stand000.bmp" texwidth="118" texheight="88" xoffset="138" yoffset="171" duration="6">IN TEXT</frame>
+    <frame image="stand001.bmp" texwidth="118" texheight="88" xoffset="138" yoffset="171" duration="6">IN TEXT</frame>
+  </move>
+</movepattern>
